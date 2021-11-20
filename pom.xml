@@ -22,10 +22,6 @@
 		<java.version>11</java.version>
 	</properties>
 
-	<dependencies>
-
-	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -34,5 +30,10 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<scm>
+		<developerConnection>scm:git:git@github.com:lgorkemt/sfg-pet-clinic.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
 
 </project>
